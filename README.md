@@ -1,3 +1,2 @@
 **Official Website for Khaanahamesha Food-blog**
-(
-Using Flask & HTML5 ) 
+(Using Flask & HTML5 ) 
